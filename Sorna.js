@@ -4,7 +4,7 @@ var friend = "Shakib Al Hasan"
 console.log(friend);
 
 var myVillage = 'jhenidah'
-console.log( myVillage);
+console.log(typeof myVillage);
 
 var myFather = 'Mr'
 console.log(myFather);
