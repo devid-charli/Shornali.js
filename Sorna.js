@@ -1,9 +1,9 @@
-var myAge = 27
+var myAge = 22
 console.log(myAge);
-var friend = "Shakib Al Hasan"
+var friend = "Santo Biswas"
 console.log(friend);
 
-var myVillage = 'jhenidah'
+var myVillage = 'Magura'
 console.log(typeof myVillage);
 
 var myFather = 'Mr'
